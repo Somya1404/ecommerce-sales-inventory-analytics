@@ -1,0 +1,17 @@
+# .gitignore
+# Windows thumbnail cache files
+Thumbs.db
+# Python cache
+__pycache__/
+*.pyc
+# Excel temporary files
+~$*.xlsx
+# SQLite database file (if generated locally)
+*.db
+# Power BI desktop temporary files
+*.pbix
+# Logs and artefacts
+*.log
+# IDE / editor folders
+.vscode/
+.idea/

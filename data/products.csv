@@ -1,0 +1,201 @@
+Product ID,Product Name,Category,Subcategory,Supplier,Unit Cost,Selling Price
+P0001,Sports Gym Record,Sports,Gym,Jones and Sons,142.38,258.54
+P0002,Sports Outdoor But,Sports,Outdoor,Green-Adams,88.8,167.47
+P0003,Clothing Kids Law,Clothing,Kids,Banks Ltd,80.35,174.2
+P0004,Books Non‑Fiction Expert,Books,Non‑Fiction,Anderson-Carroll,142.42,348.44
+P0005,Home & Kitchen Appliances Work,Home & Kitchen,Appliances,Robertson-Washington,190.44,296.74
+P0006,Clothing Women Side,Clothing,Women,Saunders-Baker,117.39,255.07
+P0007,Books Non‑Fiction Parent,Books,Non‑Fiction,Frank-Brown,68.37,121.06
+P0008,Books Non‑Fiction Series,Books,Non‑Fiction,Maldonado-Sullivan,9.15,14.34
+P0009,Clothing Women Fly,Clothing,Women,Martinez-Moore,44.67,77.02
+P0010,Clothing Kids Imagine,Clothing,Kids,"Juarez, Nelson and Griffin",148.75,338.66
+P0011,Sports Team Sports Social,Sports,Team Sports,"Pearson, Bentley and Peterson",45.13,74.64
+P0012,Sports Outdoor Happy,Sports,Outdoor,Edwards and Sons,93.24,139.81
+P0013,Clothing Women Note,Clothing,Women,Vance PLC,100.24,202.47
+P0014,Clothing Men Space,Clothing,Men,Welch-Phillips,11.02,17.09
+P0015,Electronics Accessories To,Electronics,Accessories,"Curtis, Morris and Patrick",147.66,352.77
+P0016,Home & Kitchen Furniture Return,Home & Kitchen,Furniture,White-Smith,156.23,270.42
+P0017,Home & Kitchen Decor Argue,Home & Kitchen,Decor,"Dalton, Gomez and Hall",142.3,210.28
+P0018,Clothing Women Purpose,Clothing,Women,"Wallace, Richardson and Herring",190.73,315.62
+P0019,Electronics Computers Blue,Electronics,Computers,Perez PLC,68.47,96.29
+P0020,Sports Gym Ever,Sports,Gym,Bennett LLC,110.89,140.11
+P0021,Sports Gym Arm,Sports,Gym,"Ellis, Tanner and Shaw",24.79,50.8
+P0022,Books Children Production,Books,Children,"Reed, Bonilla and Collins",125.28,263.58
+P0023,Books Children Everybody,Books,Children,Lee Inc,71.71,163.04
+P0024,Books Children Not,Books,Children,Wall-Horton,23.42,28.79
+P0025,Clothing Kids Through,Clothing,Kids,Grant Inc,27.58,68.76
+P0026,Clothing Kids Rest,Clothing,Kids,Weber-Campbell,79.26,193.34
+P0027,Electronics Accessories Though,Electronics,Accessories,Brooks-Taylor,161.83,401.93
+P0028,Clothing Kids Affect,Clothing,Kids,"Larson, Lee and Hogan",153.21,317.66
+P0029,Sports Outdoor Difficult,Sports,Outdoor,"Stark, Bailey and Cummings",89.48,184.4
+P0030,Electronics Accessories Resource,Electronics,Accessories,"Jefferson, Greene and Salazar",73.62,97.09
+P0031,Books Non‑Fiction Need,Books,Non‑Fiction,Martinez-Ramos,150.47,286.28
+P0032,Home & Kitchen Decor Tell,Home & Kitchen,Decor,"Brock, Moss and Marshall",187.57,397.61
+P0033,Sports Team Sports Dark,Sports,Team Sports,"Hubbard, Moore and Frank",23.99,38.36
+P0034,Books Fiction Kind,Books,Fiction,Walton LLC,24.97,37.53
+P0035,Home & Kitchen Appliances Free,Home & Kitchen,Appliances,"Cummings, Joseph and Miller",12.71,19.12
+P0036,Clothing Kids Find,Clothing,Kids,Ball-Cooke,18.66,36.09
+P0037,Books Children Miss,Books,Children,Cooper-Schmidt,80.47,161.89
+P0038,Sports Outdoor System,Sports,Outdoor,"Mcbride, Shea and Mcdonald",58.82,125.31
+P0039,Books Children Protect,Books,Children,"Woods, Bates and Martin",157.26,200.49
+P0040,Home & Kitchen Decor Form,Home & Kitchen,Decor,Reed LLC,82.53,192.54
+P0041,Sports Team Sports Guess,Sports,Team Sports,Perry Inc,167.03,308.93
+P0042,Clothing Women Should,Clothing,Women,Williams and Sons,96.59,134.22
+P0043,Books Non‑Fiction Range,Books,Non‑Fiction,"Brown, Wood and Brown",108.84,267.43
+P0044,Clothing Kids Note,Clothing,Kids,"Brown, Lambert and Alvarez",5.27,9.76
+P0045,Clothing Kids Become,Clothing,Kids,Bradley Inc,144.87,212.33
+P0046,Sports Outdoor Simply,Sports,Outdoor,Garcia Inc,64.05,82.55
+P0047,Clothing Women Mean,Clothing,Women,Jones and Sons,189.94,388.05
+P0048,Books Children Effort,Books,Children,Chapman-Phelps,69.71,92.64
+P0049,Clothing Women Seek,Clothing,Women,"Robinson, Jackson and Chavez",75.52,99.5
+P0050,Books Fiction Go,Books,Fiction,"Jones, Dean and Allen",160.35,194.86
+P0051,Electronics Accessories Write,Electronics,Accessories,"Hill, Harrison and Walker",157.04,369.5
+P0052,Books Fiction Magazine,Books,Fiction,"Miller, Thomas and Arroyo",178.3,296.31
+P0053,Electronics Phones Yourself,Electronics,Phones,Ruiz Inc,170.24,323.76
+P0054,Electronics Phones Head,Electronics,Phones,Lawrence Inc,7.18,16.27
+P0055,Clothing Kids Face,Clothing,Kids,Daniels-Morales,161.07,355.51
+P0056,Clothing Kids It,Clothing,Kids,Ferguson-Peters,179.86,285.72
+P0057,Clothing Kids House,Clothing,Kids,Martin LLC,192.8,352.24
+P0058,Clothing Women Arrive,Clothing,Women,Wright Inc,163.27,375.47
+P0059,Home & Kitchen Appliances Difference,Home & Kitchen,Appliances,Andrews PLC,56.26,97.17
+P0060,Clothing Kids Reduce,Clothing,Kids,Ford-Whitney,114.3,212.79
+P0061,Books Non‑Fiction Feel,Books,Non‑Fiction,Hampton-Davis,26.68,61.37
+P0062,Clothing Kids Issue,Clothing,Kids,Harris Inc,102.96,249.17
+P0063,Clothing Men Body,Clothing,Men,"Adams, Hendricks and Bryan",135.6,254.3
+P0064,Clothing Women Doctor,Clothing,Women,Peterson Ltd,22.15,44.42
+P0065,Books Non‑Fiction Still,Books,Non‑Fiction,Rogers Ltd,15.69,36.83
+P0066,Clothing Kids Method,Clothing,Kids,Gonzalez-Scott,159.72,286.51
+P0067,Clothing Women Seven,Clothing,Women,Morris Ltd,36.43,43.95
+P0068,Electronics Accessories Late,Electronics,Accessories,"Ellison, Graham and Murphy",6.95,13.27
+P0069,Books Fiction Natural,Books,Fiction,Simmons and Sons,15.5,23.77
+P0070,Home & Kitchen Appliances Environmental,Home & Kitchen,Appliances,"Hernandez, Hamilton and Dean",24.35,32.71
+P0071,Home & Kitchen Decor Gun,Home & Kitchen,Decor,"Nguyen, Robinson and Tucker",46.51,114.16
+P0072,Clothing Men Maintain,Clothing,Men,Wilson Inc,173.65,415.4
+P0073,Books Non‑Fiction Throughout,Books,Non‑Fiction,Wolfe Ltd,147.39,276.01
+P0074,Home & Kitchen Appliances North,Home & Kitchen,Appliances,Bolton Ltd,72.84,135.23
+P0075,Clothing Kids Become,Clothing,Kids,"Cannon, Thornton and Stark",73.91,114.61
+P0076,Sports Team Sports Ability,Sports,Team Sports,Leonard and Sons,48.69,74.52
+P0077,Home & Kitchen Furniture Business,Home & Kitchen,Furniture,"Young, Anderson and Mcknight",14.21,19.45
+P0078,Home & Kitchen Appliances Star,Home & Kitchen,Appliances,"Fisher, Sanchez and Chaney",82.04,159.76
+P0079,Books Fiction Here,Books,Fiction,Nolan PLC,169.28,313.79
+P0080,Sports Team Sports One,Sports,Team Sports,Short Group,17.5,21.21
+P0081,Clothing Women Build,Clothing,Women,"Bennett, Ruiz and Anderson",165.18,239.59
+P0082,Books Children Total,Books,Children,Anderson-Carpenter,169.27,338.38
+P0083,Sports Team Sports Chair,Sports,Team Sports,Farley Ltd,198.09,479.18
+P0084,Books Fiction Line,Books,Fiction,"Hernandez, Harvey and Estrada",187.42,463.8
+P0085,Home & Kitchen Appliances Her,Home & Kitchen,Appliances,"Chavez, Vasquez and Hunt",190.1,454.25
+P0086,Books Non‑Fiction Bit,Books,Non‑Fiction,Davidson Ltd,22.88,29.73
+P0087,Home & Kitchen Appliances Arm,Home & Kitchen,Appliances,Williams PLC,108.75,219.47
+P0088,Sports Outdoor Time,Sports,Outdoor,Robinson-Miles,177.71,348.6
+P0089,Sports Team Sports Congress,Sports,Team Sports,"Huff, Benson and Marshall",176.81,313.8
+P0090,Home & Kitchen Decor Hit,Home & Kitchen,Decor,Williams LLC,76.23,98.21
+P0091,Clothing Kids Wonder,Clothing,Kids,Erickson Group,112.08,192.4
+P0092,Electronics Accessories Evening,Electronics,Accessories,Campbell-Riddle,29.1,56.59
+P0093,Sports Outdoor Sure,Sports,Outdoor,"Mitchell, Hughes and Curtis",35.77,67.66
+P0094,Electronics Phones White,Electronics,Phones,Ramos and Sons,72.33,168.64
+P0095,Electronics Phones Half,Electronics,Phones,Brown LLC,49.54,99.7
+P0096,Books Non‑Fiction Animal,Books,Non‑Fiction,Garcia-Willis,84.24,202.32
+P0097,Home & Kitchen Appliances Day,Home & Kitchen,Appliances,Walters-Crawford,175.89,245.95
+P0098,Home & Kitchen Decor Son,Home & Kitchen,Decor,Marshall-Zimmerman,92.81,228.99
+P0099,Books Children Catch,Books,Children,Bell-Stevenson,148.29,315.5
+P0100,Sports Gym Ago,Sports,Gym,"Powell, Mcguire and Rivera",25.01,52.12
+P0101,Clothing Women Return,Clothing,Women,Oconnell-Smith,34.17,76.3
+P0102,Sports Outdoor Each,Sports,Outdoor,Norman-Cannon,194.26,386.43
+P0103,Home & Kitchen Furniture Foreign,Home & Kitchen,Furniture,Waters-Roberts,10.9,13.42
+P0104,Home & Kitchen Appliances Face,Home & Kitchen,Appliances,Heath-Stanley,131.9,317.11
+P0105,Clothing Kids Enter,Clothing,Kids,Martinez-Mendoza,195.47,421.14
+P0106,Sports Outdoor Without,Sports,Outdoor,"Salazar, Fischer and Ball",183.18,323.91
+P0107,Books Children Ground,Books,Children,"Mora, Craig and Thompson",196.03,399.76
+P0108,Books Non‑Fiction Plant,Books,Non‑Fiction,Gonzalez and Sons,87.77,217.26
+P0109,Clothing Men State,Clothing,Men,"Horn, Rivera and Ross",98.49,201.77
+P0110,Sports Gym Idea,Sports,Gym,Love Inc,39.07,61.64
+P0111,Clothing Women Standard,Clothing,Women,Reynolds Group,27.77,66.42
+P0112,Clothing Men Action,Clothing,Men,"Pugh, Hardy and Reyes",45.6,109.19
+P0113,Clothing Men Reason,Clothing,Men,Wong PLC,196.36,387.28
+P0114,Sports Outdoor Raise,Sports,Outdoor,Mills-Barker,79.07,195.12
+P0115,Clothing Kids Level,Clothing,Kids,"Sanders, Edwards and Olson",170.7,410.23
+P0116,Electronics Computers Develop,Electronics,Computers,"Brooks, Davis and Brennan",12.89,30.82
+P0117,Electronics Computers Of,Electronics,Computers,Clark-Edwards,117.94,142.47
+P0118,Electronics Phones Edge,Electronics,Phones,Ross-Smith,74.15,169.89
+P0119,Sports Team Sports President,Sports,Team Sports,Terry LLC,83.98,104.84
+P0120,Sports Team Sports Difference,Sports,Team Sports,Fisher Group,48.74,110.89
+P0121,Sports Team Sports Move,Sports,Team Sports,Zimmerman-Price,50.85,119.85
+P0122,Sports Outdoor Life,Sports,Outdoor,"Martinez, Wilson and Davis",167.61,406.68
+P0123,Books Children Instead,Books,Children,Johnson Inc,80.07,134.14
+P0124,Home & Kitchen Appliances Mind,Home & Kitchen,Appliances,Nichols and Sons,46.37,56.23
+P0125,Electronics Accessories Interview,Electronics,Accessories,"Jordan, Potts and Melendez",175.06,343.15
+P0126,Electronics Computers Future,Electronics,Computers,Smith PLC,173.85,321.18
+P0127,Books Children End,Books,Children,"Bray, Hudson and Strickland",78.65,125.3
+P0128,Home & Kitchen Furniture Land,Home & Kitchen,Furniture,Smith LLC,37.28,63.54
+P0129,Home & Kitchen Decor When,Home & Kitchen,Decor,Harris-Jones,127.38,281.0
+P0130,Electronics Phones Increase,Electronics,Phones,Garcia-Jones,87.13,208.97
+P0131,Home & Kitchen Furniture Participant,Home & Kitchen,Furniture,Taylor LLC,172.18,262.27
+P0132,Books Fiction Huge,Books,Fiction,"Washington, Kennedy and Cain",106.52,200.86
+P0133,Electronics Phones Like,Electronics,Phones,Gross-Gray,84.35,126.65
+P0134,Home & Kitchen Furniture True,Home & Kitchen,Furniture,Castillo and Sons,62.35,122.78
+P0135,Clothing Kids Financial,Clothing,Kids,Nichols Ltd,34.95,54.15
+P0136,Sports Gym Prevent,Sports,Gym,"Mays, Hall and Sanders",170.85,409.58
+P0137,Books Children Fast,Books,Children,Jackson Ltd,52.46,119.16
+P0138,Books Children Hundred,Books,Children,Lopez Ltd,7.75,9.95
+P0139,Electronics Computers Rate,Electronics,Computers,"Maddox, Francis and Thomas",142.35,271.49
+P0140,Clothing Kids Help,Clothing,Kids,Owens-Thomas,34.0,48.89
+P0141,Clothing Men Doctor,Clothing,Men,Weaver Group,169.89,279.4
+P0142,Books Children Agree,Books,Children,Kelly Group,154.67,266.69
+P0143,Clothing Women Beautiful,Clothing,Women,"Gomez, Gray and Hoover",20.33,46.63
+P0144,Sports Team Sports Board,Sports,Team Sports,Beck Group,145.48,212.52
+P0145,Electronics Phones Represent,Electronics,Phones,"Heath, Gonzalez and Moore",180.0,342.36
+P0146,Books Fiction Rich,Books,Fiction,"Anderson, Brown and Rodriguez",75.79,96.31
+P0147,Electronics Accessories Nothing,Electronics,Accessories,Williams-Underwood,11.13,14.95
+P0148,Clothing Men Strong,Clothing,Men,Smith-Shaw,163.56,277.82
+P0149,Home & Kitchen Furniture Stuff,Home & Kitchen,Furniture,Stein PLC,146.99,256.26
+P0150,Sports Gym Fly,Sports,Gym,Singleton and Sons,108.62,245.37
+P0151,Sports Team Sports Body,Sports,Team Sports,"Kim, Best and Martinez",141.42,170.01
+P0152,Clothing Kids Range,Clothing,Kids,"Tucker, Sullivan and Hunt",66.57,81.15
+P0153,Books Fiction I,Books,Fiction,Davis and Sons,12.91,19.83
+P0154,Books Children Then,Books,Children,Kramer Ltd,127.06,268.01
+P0155,Sports Outdoor Security,Sports,Outdoor,Williams PLC,8.65,12.0
+P0156,Clothing Kids Feeling,Clothing,Kids,Perry Inc,93.09,136.9
+P0157,Home & Kitchen Decor Treat,Home & Kitchen,Decor,Gregory-Harrell,46.98,68.32
+P0158,Clothing Kids Occur,Clothing,Kids,"Mack, Escobar and Baker",116.25,207.21
+P0159,Home & Kitchen Furniture Who,Home & Kitchen,Furniture,"Porter, Taylor and Johnson",10.22,24.85
+P0160,Clothing Kids Agree,Clothing,Kids,Scott-Garza,39.89,53.77
+P0161,Electronics Accessories Hospital,Electronics,Accessories,Rogers Inc,131.02,293.0
+P0162,Books Children Consumer,Books,Children,Lee-Baker,199.41,398.03
+P0163,Electronics Accessories Officer,Electronics,Accessories,Stanton Inc,184.93,268.69
+P0164,Sports Gym Member,Sports,Gym,"Powell, Acosta and Jones",133.31,184.31
+P0165,Clothing Women Stand,Clothing,Women,"Robles, Ramos and Robinson",15.6,37.62
+P0166,Clothing Women Between,Clothing,Women,Diaz Ltd,121.5,192.99
+P0167,Home & Kitchen Decor As,Home & Kitchen,Decor,Johnson-Hunter,174.77,276.0
+P0168,Home & Kitchen Decor Herself,Home & Kitchen,Decor,"Green, Weiss and Edwards",29.75,61.97
+P0169,Electronics Phones Claim,Electronics,Phones,"Larson, Snyder and Jones",53.66,120.6
+P0170,Electronics Phones Professional,Electronics,Phones,Suarez-Sanchez,196.21,311.19
+P0171,Home & Kitchen Furniture Body,Home & Kitchen,Furniture,"Guzman, Morgan and Espinoza",84.91,136.6
+P0172,Books Fiction Cost,Books,Fiction,Ross-Zuniga,22.14,51.52
+P0173,Home & Kitchen Appliances Significant,Home & Kitchen,Appliances,Pollard-Ramirez,5.98,12.98
+P0174,Books Fiction Kid,Books,Fiction,Franklin Ltd,24.11,42.09
+P0175,Clothing Kids Prepare,Clothing,Kids,Ramirez and Sons,162.52,380.41
+P0176,Sports Gym Little,Sports,Gym,Williams-Jones,106.39,150.79
+P0177,Clothing Men Tend,Clothing,Men,Spencer-Guerrero,79.69,98.62
+P0178,Home & Kitchen Decor Source,Home & Kitchen,Decor,Hoffman Group,38.32,59.77
+P0179,Clothing Kids Wrong,Clothing,Kids,"Carter, Buck and Powell",62.48,107.94
+P0180,Electronics Computers Record,Electronics,Computers,Hopkins and Sons,122.03,277.74
+P0181,Clothing Women Environmental,Clothing,Women,"Newman, Taylor and Cortez",83.91,162.73
+P0182,Books Children It,Books,Children,Morgan and Sons,173.67,209.96
+P0183,Clothing Men Main,Clothing,Men,Lee-Ford,168.32,250.6
+P0184,Sports Team Sports Party,Sports,Team Sports,Sparks Ltd,135.33,163.33
+P0185,Books Children Phone,Books,Children,Hall-Bennett,161.95,359.38
+P0186,Sports Outdoor Rule,Sports,Outdoor,Martin-Mason,147.92,223.62
+P0187,Books Children Might,Books,Children,Andrade-Sanchez,13.66,22.09
+P0188,Home & Kitchen Furniture Billion,Home & Kitchen,Furniture,"Miller, Giles and Jarvis",90.92,209.55
+P0189,Books Children Professor,Books,Children,"Gaines, Barker and Stone",116.65,193.12
+P0190,Electronics Computers Indeed,Electronics,Computers,Gonzalez LLC,132.27,172.16
+P0191,Clothing Women At,Clothing,Women,"Macdonald, Williams and Singleton",155.77,227.26
+P0192,Electronics Phones Offer,Electronics,Phones,Coleman-Lee,89.37,214.76
+P0193,Clothing Kids Miss,Clothing,Kids,Warner Inc,57.58,119.7
+P0194,Books Non‑Fiction Trade,Books,Non‑Fiction,Jacobs and Sons,124.71,204.0
+P0195,Books Fiction Television,Books,Fiction,"Taylor, Dixon and Goodman",127.3,214.56
+P0196,Books Non‑Fiction Ask,Books,Non‑Fiction,Rodriguez-Klein,25.18,44.94
+P0197,Clothing Kids Box,Clothing,Kids,Lee-Nelson,174.49,235.57
+P0198,Sports Team Sports Song,Sports,Team Sports,Ramirez-Smith,166.52,392.67
+P0199,Home & Kitchen Appliances Area,Home & Kitchen,Appliances,"Prince, Cummings and Morgan",33.28,47.07
+P0200,Electronics Accessories A,Electronics,Accessories,"Johnson, Heath and Wood",92.16,180.18
